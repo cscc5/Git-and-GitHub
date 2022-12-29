@@ -1,4 +1,6 @@
-﻿Git y Github
+﻿# Git-GitHub
+
+Conozcamos un poco más estos conceptos:
 
 Git: Sistema de control de versiones, diseñado por linux troval para operar en un entrono Linux (actualmente es multiplataforma), es decir, te permite guardar unicamente los cambios realizados de una parte especifica de un archivo especifico en lugar de guardar el mismo archivo varias veces, también podemos guardar el historial de cambios y crecimento de los archivos de nuestro proyecto.
 
